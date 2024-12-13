@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "isSale": false,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8lsdKMIrQFKjjDpjt9bX7xftR6TKTr0oww&s",
+        "title": "Fancy Product",
+        "price": "$40.00 - $80.00",
+        "priceMute": false,
+        "mute": 0,
+        "button": "View Options",
+        "isStar": false
+    },
+    {
+        "id": 2,
+        "isSale": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8lsdKMIrQFKjjDpjt9bX7xftR6TKTr0oww&s",
+        "title": "Special Item",
+        "price": "$40.00 - $80.00",
+        "priceMute": true,
+        "mute": "$20.00",
+        "button": "Add to cart",
+        "isStar": true
+    },
+    {
+        "id": 3,
+        "isSale": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8lsdKMIrQFKjjDpjt9bX7xftR6TKTr0oww&s",
+        "title": "Sale Item",
+        "price": "$40.00 - $80.00",
+        "priceMute": true,
+        "mute": "$50.00",
+        "button": "Add to cart",
+        "isStar": false
+    },
+    {
+        "id": 4,
+        "isSale": false,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8lsdKMIrQFKjjDpjt9bX7xftR6TKTr0oww&s",
+        "title": "Popular Item",
+        "price": "$40.00 - $80.00",
+        "priceMute": false,
+        "mute": 0,
+        "button": "Add to cart",
+        "isStar": true
+    },
+    {
+        "id": 5,
+        "isSale": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8lsdKMIrQFKjjDpjt9bX7xftR6TKTr0oww&s",
+        "title": "Sale Item",
+        "price": "$40.00 - $80.00",
+        "priceMute": true,
+        "mute": "$50.00",
+        "button": "Add to cart",
+        "isStar": false
+    },
+    {
+        "id": 6,
+        "isSale": false,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8lsdKMIrQFKjjDpjt9bX7xftR6TKTr0oww&s",
+        "title": "Fancy Product",
+        "price": "$120.00 - $280.00",
+        "priceMute": false,
+        "mute": "0",
+        "button": "View Options",
+        "isStar": false
+    },
+    {
+        "id": 7,
+        "isSale": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8lsdKMIrQFKjjDpjt9bX7xftR6TKTr0oww&s",
+        "title": "Special Item",
+        "price": "$40.00 - $80.00",
+        "priceMute": true,
+        "mute": "$20.00",
+        "button": "Add to cart",
+        "isStar": true
+    },
+    {
+        "id": 8,
+        "isSale": false,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8lsdKMIrQFKjjDpjt9bX7xftR6TKTr0oww&s",
+        "title": "Popular Item",
+        "price": "$40.00 - $80.00",
+        "priceMute": false,
+        "mute": "0",
+        "button": "Add to cart",
+        "isStar": true
+    }
+]
