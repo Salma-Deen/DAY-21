@@ -58,10 +58,8 @@ const Card = ({ onAddToCart, onRemoveFromCart, isInCart, }) => {
                                                     >
                                                         Add to Cart
                                                     </button>
-
                                                 )}
-                                                
-                                            </div>
+                                               </div>
                                         </div >
                                     </>
                                 )
